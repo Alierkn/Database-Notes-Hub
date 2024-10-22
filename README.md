@@ -1,57 +1,10 @@
 # Database-Notes-Hub
 Notes from University of Messina 2nd year Data Analysis Student
 
-The Relational Model
+Hi! I’m Ali, a second-year Data Analysis student at the University of Messina with a strong passion for biology, data analysis, and student consultancy. I split my time between Messina and Ankara, where I provide private tutoring in mathematics, biology, physics, and chemistry, particularly for students attending French high schools.
 
-1. Introduction
+At the University of Messina, my studies are focused on harnessing the power of data to solve complex problems, and I am particularly interested in applying these skills to the field of genetic data analysis. This combination of biological sciences and data analysis is where I aim to make a significant impact in the future.
 
-	•	The relational model was proposed by E. F. Codd in 1970 to promote data independence.
-	•	It was adopted in commercial Database Management Systems (DBMS) in 1981.
-	•	The model is based on the mathematical concept of relations, which are represented by tables.
+In addition to my academic pursuits, I am in the process of establishing a consultancy company to assist international students with their transition to life and studies in Italy, specifically at Messina University. My goal is to integrate my educational services with practical support to ensure students feel confident and prepared throughout their journey.
 
-2. Key Concepts
-
-	•	Logical Data Models:
-	•	Traditional models: Hierarchical, Network, Relational.
-	•	Relational model is a higher-level abstraction, with data represented only through values (no pointers).
-	•	Mathematical Relations:
-	•	Defined by the Cartesian product of domains.
-	•	A relation is a subset of the Cartesian product.
-	•	Terms:
-	•	Degree: Number of attributes in the relation.
-	•	Cardinality: Number of tuples.
-
-3. Properties of Relations
-
-	•	Relations are represented as sets of ordered n-tuples.
-	•	The ordering is based on the domains, and each domain’s position determines the attribute.
-
-4. Tabular Representation
-
-	•	In relational models, tables represent relations.
-	•	Columns represent attributes, and rows represent tuples (data instances).
-
-5. Formalizing Relations
-
-	•	Attributes correspond to the domains.
-	•	A tuple is a function that maps attributes to domain values.
-	•	A relation is a set of such tuples.
-
-6. Keys and Constraints
-
-	•	Keys:
-	•	A set of attributes that uniquely identifies tuples in a relation.
-	•	Primary Key: A key where null values are not allowed.
-	•	Referential Integrity:
-	•	Ensures that foreign keys reference valid tuples in other tables.
-
-7. Advantages of the Relational Model
-
-	•	Independence from physical data structures.
-	•	Easy data transfer between systems.
-	•	Data references are made through values, not physical pointers.
-
-8. Conclusion
-
-	•	The relational model’s flexibility and simplicity made it a fundamental aspect of modern databases.
-	•	It remains a central model in database theory and practice, especially with relational databases like MySQL, PostgreSQL, and SQL Server.
+I also have an interest in investment and am exploring ways to enhance my knowledge in this area.
